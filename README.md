@@ -3,8 +3,8 @@
 > **Superseded.** SessionBound was the preliminary preprint (arXiv:2607.00751v1) of what is now
 > **FactGate**, a task-scoped data gateway for AI agents with cumulative exposure accounting.
 > The current system, evaluation, and manuscript live at https://github.com/minmin-lab/factgate
-> and in a new arXiv preprint whose identifier will be added here. This repository is kept
-> read-only as the historical record of the preprint.
+> and as version 2 onward of the same arXiv identifier, arXiv:2607.00751 (v1 remains the
+> SessionBound preprint). This repository is kept read-only as the historical record of v1.
 
 
 SessionBound turns approved enterprise tasks into budgeted database sessions for
